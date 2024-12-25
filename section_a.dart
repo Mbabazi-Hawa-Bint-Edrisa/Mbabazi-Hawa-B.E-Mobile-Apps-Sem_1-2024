@@ -41,9 +41,9 @@ void main() {
 }
  void map() {
   Map<String, String> names = {
-    'name1': 'Alice',
-    'name2': 'Bob',
-    'name3': 'Charlie'
+    'name1': 'Hawa',
+    'name2': 'Jolline',
+    'name3': 'Mariam'
   };
 
   names.forEach((key, value) {
